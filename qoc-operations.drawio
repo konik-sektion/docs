@@ -1,0 +1,264 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6">
+  <diagram name="Page-1" id="vPEa8WubQhnypOPpq5VH">
+    <mxGraphModel dx="1675" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CmgBrAypdevSxq9qQNys-88" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="630" width="1250" x="70" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-14" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="200" x="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-1" parent="1" style="whiteSpace=wrap;html=1;" value="DQSP&lt;sup&gt;1&lt;/sup&gt;: + calc.py" vertex="1">
+          <mxGeometry height="30" width="120" x="120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-2" parent="1" style="whiteSpace=wrap;html=1;" value="Index 2: + calc.py&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-3" parent="1" style="whiteSpace=wrap;html=1;" value="Index 3: + calc.py" vertex="1">
+          <mxGeometry height="30" width="120" x="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-5" parent="1" style="whiteSpace=wrap;html=1;" value="Index 4: + calc.py" vertex="1">
+          <mxGeometry height="30" width="120" x="120" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-6" parent="1" style="whiteSpace=wrap;html=1;" value="..." vertex="1">
+          <mxGeometry height="30" width="120" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-7" parent="1" style="whiteSpace=wrap;html=1;" value="Index&amp;nbsp;&lt;i&gt;n&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="120" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-9" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QSP" vertex="1">
+          <mxGeometry height="20" width="30" x="165" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-13" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QIP" vertex="1">
+          <mxGeometry height="20" width="30" x="260" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-95" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-15" parent="1" style="whiteSpace=wrap;html=1;" value="&#39;dafu change index down&#39;" vertex="1">
+          <mxGeometry height="40" width="120" x="180" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-16" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="210" x="340" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-17" parent="1" style="whiteSpace=wrap;html=1;" value="DQSP&lt;sup&gt;1&lt;/sup&gt;: + calc.py" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-18" parent="1" style="whiteSpace=wrap;html=1;" value="Index 2: + calc.py&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-19" parent="1" style="whiteSpace=wrap;html=1;" value="Index 3: + calc.py" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-20" parent="1" style="whiteSpace=wrap;html=1;" value="Index 4: + calc.py" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-21" parent="1" style="whiteSpace=wrap;html=1;" value="..." vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-22" parent="1" style="whiteSpace=wrap;html=1;" value="Index&amp;nbsp;&lt;i&gt;n&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-23" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QSP" vertex="1">
+          <mxGeometry height="20" width="30" x="405" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-27" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QIP" vertex="1">
+          <mxGeometry height="20" width="30" x="500" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-28" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="220" x="100" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DQSP + calc.py" vertex="1">
+          <mxGeometry height="20" width="90" x="100" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;def add(num1: int, num2: int)-&amp;gt;int:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return num1 + num2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="100" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-31" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="220" x="100" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I2 + calc.py" vertex="1">
+          <mxGeometry height="20" width="90" x="100" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;def sub(num1: int, num2: int)-&amp;gt;int:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return num1 - num2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="100" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-37" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="220" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I3 + calc.py" vertex="1">
+          <mxGeometry height="20" width="90" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;def mul(num1: int, num2: int)-&amp;gt;int:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return num1 * num2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="330" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-40" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="220" x="330" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I4 + calc.py" vertex="1">
+          <mxGeometry height="20" width="90" x="330" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;def div(num1: int, num2: int)-&amp;gt;int:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return num1 - num2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="330" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-96" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-43" parent="1" style="whiteSpace=wrap;html=1;" value="&#39;dafu change commit&#39;" vertex="1">
+          <mxGeometry height="40" width="120" x="430" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-97" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="693" y="400" />
+              <mxPoint x="693" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-45" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="210" x="590" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#707070);" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="675" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-48" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CmgBrAypdevSxq9qQNys-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#707070);" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="675" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;(initial)&lt;/div&gt;&lt;div&gt;48b72f ...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="725" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;(new)&lt;/div&gt;&lt;div&gt;48b72f ...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="725" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-52" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="branch &#39;main&#39;" vertex="1">
+          <mxGeometry height="30" width="60" x="665" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-54" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CPP&lt;sup&gt;2&lt;/sup&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="615" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-55" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="220" x="585" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="The local repository&#39;s calc.py:" vertex="1">
+          <mxGeometry height="20" width="195" x="595" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;def sub(num1: int, num2: int)-&amp;gt;int:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return num1 - num2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="215" x="585" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-61" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="210" x="840" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-62" parent="1" style="whiteSpace=wrap;html=1;" value="DQSP&lt;sup&gt;1&lt;/sup&gt;: + calc.py" vertex="1">
+          <mxGeometry height="30" width="120" x="860" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-63" parent="1" style="whiteSpace=wrap;html=1;" value="Index 2: + calc.py&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="860" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-64" parent="1" style="whiteSpace=wrap;html=1;" value="Index 3: + calc.py" vertex="1">
+          <mxGeometry height="30" width="120" x="860" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-65" parent="1" style="whiteSpace=wrap;html=1;" value="Index 4" vertex="1">
+          <mxGeometry height="30" width="120" x="860" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-66" parent="1" style="whiteSpace=wrap;html=1;" value="..." vertex="1">
+          <mxGeometry height="30" width="120" x="860" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-67" parent="1" style="whiteSpace=wrap;html=1;" value="Index&amp;nbsp;&lt;i&gt;n&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="860" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-68" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QSP" vertex="1">
+          <mxGeometry height="20" width="30" x="905" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-70" edge="1" parent="1" source="CmgBrAypdevSxq9qQNys-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CmgBrAypdevSxq9qQNys-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QIP" vertex="1">
+          <mxGeometry height="20" width="30" x="1000" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-72" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="220" x="1070" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DQSP + calc.py" vertex="1">
+          <mxGeometry height="20" width="90" x="1070" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;def add(num1: int, num2: int)-&amp;gt;int:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return num1 + num2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="1070" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-75" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="220" x="1070" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I2 + calc.py" vertex="1">
+          <mxGeometry height="20" width="90" x="1070" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;def mul(num1: int, num2: int)-&amp;gt;int:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return num1 * num2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="1070" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-78" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="220" x="1070" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="I3 + calc.py" vertex="1">
+          <mxGeometry height="20" width="90" x="1070" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;def div(num1: int, num2: int)-&amp;gt;int:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return num1 - num2&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="1070" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QOC&lt;sup&gt;4&lt;/sup&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QOC&lt;sup&gt;4&lt;/sup&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="340" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LOC&lt;sup&gt;3&lt;/sup&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="590" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="QOC&lt;sup&gt;4&lt;/sup&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="840" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-89" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="500" x="70" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;1: DQSP: Dereference of the Queue Static Pointer.&amp;nbsp;&lt;i&gt;The DQSP is the technical name for the top of the queue of changes, simply &#39;the top&#39; or &#39;index 1.&#39;&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="70" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;2: CPP: Current Position Pointer.&amp;nbsp;&lt;i&gt;The current position pointer is a dynamic positional pointer in DAFU which points to and denotes the most current commit for a branch a given repository.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="70" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;3: LOC: Local Repository.&amp;nbsp;&lt;i&gt;Abbreviation for &#39;local repository.&#39;&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="70" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;4: QOC: Queue of Changes.&amp;nbsp;&lt;i&gt;Abbreviation for &#39;queue of changes.&#39;&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="70" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="CmgBrAypdevSxq9qQNys-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;DAFU: QOC&lt;sup&gt;4&lt;/sup&gt; Operations&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="270" x="75" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
